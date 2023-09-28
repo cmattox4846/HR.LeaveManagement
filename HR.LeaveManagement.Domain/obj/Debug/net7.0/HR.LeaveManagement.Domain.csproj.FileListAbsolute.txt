@@ -10,3 +10,5 @@ C:\Users\mattoxc\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain
 C:\Users\mattoxc\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\refint\HR.LeaveManagement.Domain.dll
 C:\Users\mattoxc\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.pdb
 C:\Users\mattoxc\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\ref\HR.LeaveManagement.Domain.dll
+C:\Users\mattoxc\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\bin\Debug\net7.0\HR.LeaveManagement.Domain.runtimeconfig.json
+C:\Users\mattoxc\source\repos\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net7.0\HR.LeaveManagement.Domain.genruntimeconfig.cache

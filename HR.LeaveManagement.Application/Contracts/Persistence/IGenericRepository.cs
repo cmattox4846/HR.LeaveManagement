@@ -1,9 +1,11 @@
-﻿namespace HR.LeaveManagement.Application.Contracts.Persistence
+﻿using HR.LeaveManagement.Domain.Common;
+
+namespace HR.LeaveManagement.Application.Contracts.Persistence
 {
 
     //This is for the deafult CRUD operations that may need to be preformed.
 
-    public interface IGenericRepository<T> where T : class
+    public interface IGenericRepository<T> where T : BaseEntity
     {
         Task<IReadOnlyList<T>> GetAsync();
 
