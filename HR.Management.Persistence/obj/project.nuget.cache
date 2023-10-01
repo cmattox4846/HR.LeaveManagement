@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RUDY5Y201BW0rNV9LpCIJpuAlFzJwmQ5fKO0l2RvpCSho03SR5yKOcMtI1JSj035wIZAsC/oXzyK+BVKFZ5jqg==",
+  "dgSpecHash": "EsbPirnYvj0S0m921o+K3Qj4+OzgAa52/7Pf7kK9uT0ldoebmlMwY9nbO6/0QSvZqTXU6PUo6ABLt+EYFzo5kw==",
   "success": true,
   "projectFilePath": "C:\\Users\\mattoxc\\source\\repos\\HR.LeaveManagement.Clean\\HR.Management.Persistence\\HR.LeaveManagement.Persistence.csproj",
   "expectedPackageFiles": [
@@ -46,9 +46,11 @@
     "C:\\Users\\mattoxc\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.24.0\\microsoft.identitymodel.tokens.6.24.0.nupkg.sha512",
     "C:\\Users\\mattoxc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\mattoxc\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\mattoxc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\mattoxc\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\mattoxc\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\mattoxc\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\mattoxc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\mattoxc\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\mattoxc\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
     "C:\\Users\\mattoxc\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
