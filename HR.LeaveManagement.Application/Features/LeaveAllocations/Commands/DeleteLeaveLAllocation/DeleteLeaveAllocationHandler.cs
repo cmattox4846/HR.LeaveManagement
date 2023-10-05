@@ -25,14 +25,14 @@ namespace HR.LeaveManagement.Application.Features.LeaveAllocations.Commands.Dele
 
 
             //Get Leaave type for Allocations
-            var leaveDelete = await _leaveAllocationRepository.GetByIdAsync(request.Id);
+            var leaveAllocationDelete = await _leaveAllocationRepository.GetByIdAsync(request.Id);
 
-            if (leaveDelete is null)
+            if (leaveAllocationDelete is null)
             {
-                throw new NotFoundException(nameof(leaveDelete), request.Id);
+                throw new NotFoundException(nameof(leaveAllocationDelete), request.Id);
             }
 
-            await _leaveAllocationRepository.DeleteAsync(leaveDelete);
+            await _leaveAllocationRepository.DeleteAsync(leaveAllocationDelete);
             return Unit.Value;
         }
     }
